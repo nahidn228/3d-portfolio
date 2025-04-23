@@ -32,9 +32,14 @@ const Hero = () => {
                   </span>
                 </span>
               </h1>
+
               <h1>into Real Projects</h1>
               <h1>that deliver Results</h1>
             </div>
+            <p className="text-white-50 md:text-xl relative z-10  pointer-events-none">
+              Hi I'm Nahid Hasan, a Developer based in Bangladesh, with a
+              passion for Code
+            </p>
           </div>
         </header>
 
